@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "video-doctor-development",
+  "private_key_id": "bc0f06865450e3ae51184988a57bd054f47711d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDRnHfpdxzZFDAN\n4+UpGc7yXu9gt5thU2NYxgak7hFBb4qVbJ8duWB5MRuhS2U78d0MhQBgJ2fa8tVu\n+D8bzCFtv8a0ZNYVL08w4oc4m3PLmzievBme3uta+r8hJh4a/yQ9x7YTPYfXsZaz\nWMEfS5nwW7/cqX6KPnvqvWnGk7mZ/wpb/oNp7T5m6v8z7mbOgT9+s153NNsfqeml\nwSzG8Cg5ktCxchyjd3TcSQ9s7zBEbKgLeO1P6vwKF1WoExzRhUJHSnxdgrkuGYCy\nCXiTCfiyNT2CugiFXVVW1j0UMLr01JJobUdO6v610GDkrubp+aDzL8ViB59LH/ta\nObk7ilMTAgMBAAECggEAAM54Jvr72UP6yVrlS1VblqgnMKPpjPl7/4qc2kPw52O3\n+0o0idyS5/R4lZQg2sGxUYvYzAXqyuILUIbTq1Y2PLdeWtxWdzS8Om/CCHA6BQBf\nD+ahDJub+TjPb8ph7EWrYdzOW7WYEQw7DGFHi54dWgToWz+AX/oh55h8pd8fTt3g\nEihC+QxzsGzP1CPFR97w5Mw0tZ4N2Bg2Bg1m/z0aD5mIAIKSN7bgFF+TGN//Hb8Z\n/3eCGjUjJuyH+P71uODFd6wg4vv1owvsAP2lyx/mHtJCY9LU2ZKOrELyY70d7jDa\nnhA7ljeJgk8rpr4rS9SvkYWTvCSslwienU6T0z3L/QKBgQDwaGHrgOUQklkjhMBz\n/bAomz9J/gzw66PxpgfN1a+GI3MNFu459jpXBusgF7QkeqYrZkmeB55qhGQR7/cE\nLx9xwhb+y75rgA4hz1ymBNQJfyi1ch3xMdapCFwNZgQhvPrd0WcJ7iD+jcSTLKK9\nXmN8IP0ZRA3jLAb98amAIl1crQKBgQDfNMEtgbobATzUy9e8snlYIG7/KgqDWQWt\n9dECPydJjy2JBLLcdwATQoOG/NAe1I1jMh9VqYPeyNshrrP8X5H2pcJnoNAGRWtB\niIG56g9yRnW6klSuhQbY0impp5GbyDpYHwtVHf+Tr4/9LtbTFYDB93GF/hbFDBqI\nDtyRRDKmvwKBgEVWddeMx4RuEVOTOEa8BpDPpgNbSLQ74n8R2fJeDU/s7YP69x60\ni8MJ9cq9y3EyBrdBuz3fCKvEH3Ck+2Ozi6gtyKAYd4Vd27WYryoa/mT2zfD3RveH\n3lfGV3Zt1Ac/EEPl34gXrGB+1xFzsERZ8uucQCOHY1IAIswfZTnVr4PJAoGAPeMH\nqNFuQ2yNbEb0kyo9ANVFUVRbw91b+MbOY7wU7Y1YR8RYv03zZGOtyjCwl8vBQ/6y\nt3Kf0JaKQ4WH+/KXqvZ8t3TcGNEIkwwBRAYEsF+e5tMJzbWul1F2IccHVVUn8CTz\nZG9D3LPxzXY+NBqjL6SnAkrYD1xywsS0HUb2cEsCgYB3hT1kYccZonwbG6s7fx/v\nWCnqKj6SRC30cNAQoTCEsgQQDAKD4sn8HhL/sAamUjiu3o377gHqHSoYCoqhO4gC\ntvV5CzaS2Jl2KdKCJFcImVWulNOmO2EIuJFZNwakBMhKvr2Hw/6GMHwUhm5bknhP\nNdzp3Jcj20XmlCWgfIU5+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "crypto-demo-account@video-doctor-development.iam.gserviceaccount.com",
+  "client_id": "108838747998050385905",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crypto-demo-account%40video-doctor-development.iam.gserviceaccount.com"
+}
